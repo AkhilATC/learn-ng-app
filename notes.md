@@ -1,5 +1,8 @@
 # Learning app in angular
-
+```
+// create new project
+ng new <project-name>
+```
 ```
 error: error NG8002: Can't bind to 'ngModel' since it isn't a known property of 'input'.
 solution: import FormsModule in app.module.ts
